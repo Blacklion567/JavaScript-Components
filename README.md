@@ -5,3 +5,4 @@
 <hr>
 <h6>JavaScript-Method</h6>
 <h6>Array-Iteration-8-Methods</h6>
+<h6>FunctionalArrayPatterns</h6>
